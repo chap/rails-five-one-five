@@ -1,7 +1,7 @@
 {
   "name": "rails-five-one-five",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
   "engines": {
     "node": "~> 6.x",
     "yarn": "1.0.2"
